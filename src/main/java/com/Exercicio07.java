@@ -18,7 +18,7 @@ public class Exercicio07 {
         double divisao = (double) numero1 / numero2;
 
             System.out.println("Divisão por zero não é permitida");
-        System.out. println ("Soma: " + soma + " Subtração: " + subtracao + " + Multiplicao: + "multiplicação + Divisão");
+        System.out. println ("Soma: " + soma + " Subtração: " + subtracao + " Multiplicao: " + multiplicacao + " Divisão: " + divisao );
 
         }
     }
